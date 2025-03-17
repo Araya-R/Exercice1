@@ -1,0 +1,16 @@
+header{
+    background-color: black;
+    height: 100px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+li{
+    list-style: none;
+    color:aliceblue;
+    margin-top: 40px;
+}
